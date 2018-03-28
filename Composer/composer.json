@@ -1,0 +1,13 @@
+{
+    "name": "modesto/composer",
+    "license": "dev",
+    "authors": [
+        {
+            "name": "Vinicius Alves",
+            "email": "vinialves08@gmail.com"
+        }
+    ],
+    "require": {
+	 "rain/raintpl": ">=3.0.0"	
+	}
+}
